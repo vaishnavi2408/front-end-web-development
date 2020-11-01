@@ -1,0 +1,99 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    letter-spacing: 0.2rem;
+    background-color: white;
+}
+.navbar-brand{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    background-color: #cccccc;
+    color: black;
+    border-radius: 0.2rem;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+img.mainbg {
+    max-width: 100%;
+    width: 1600px;
+    height: 600px;
+}
+h2.textover{
+    font-weight: 500;
+    font-size: 200%;
+}
+mark{
+    background-color: #d5d5d5;
+}
+
+div.bgimg {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 40px;
+    left: 50px;
+    letter-spacing: 0.4rem;
+}
+.featurette-heading{
+    font-family: 'Piazzolla', serif;
+}
+#address{
+    color: rgb(96, 130, 194);
+    font-weight: bold;
+}
+span#menu{
+    width: 90%;
+    height: 20px;
+    background-color: rosybrown;
+}
+.menuitems{
+    letter-spacing: 0.2rem;
+}
+.widthimg{
+    width: 100%;
+}
+
+
+/* Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+
+} 
+
+Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menuitems{
+        align-self: center;
+    }
+}
+
+ Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .nopara{
+        display: none;
+    }
+}
+
+Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+
+} */
